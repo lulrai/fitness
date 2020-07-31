@@ -1,0 +1,137 @@
+Executive Summary Report
+=============================
+Invoice    Member                                             Personal Trainer          Subtotal      Fees          Taxes         Discount      Total        
+INV001     Jenning Consultants [Student]                      Spald,  Jeff              $ 2568.96     $ 10.50       $ 153.76      -$ 359.28     $ 2373.95    
+INV002     Valueable Club [Student]                           Alice,  Brown             $ 643.50      $ 10.50       $ 33.19       -$ 84.67      $ 602.52     
+INV003     GAP Industries [Student]                           Jain,  Humphrey           $ 3136.05     $ 10.50       $ 183.24      -$ 434.13     $ 2895.67    
+INV004     Hen Roster [General]                               Hundal,  Salan            $ 641.50      $ 0.00        $ 25.91       -$ 0.00       $ 667.41     
+INV005     IIM Fellows [General]                              McCoy,  Derek             $ 651.72      $ 0.00        $ 38.82       -$ 0.00       $ 690.54     
+============================================================================================================================================================
+TOTALS                                                                                  $ 7641.73     $ 31.50       $ 434.92      -$ 878.07     $ 7230.08    
+
+Individual Invoice Detail Reports
+===================================================
+Invoice INV001
+=======================================
+Personal Trainer: Spald,  Jeff
+Member Info: 
+  Jenning Consultants (N701)
+  [Student]
+  Jain,  Humphrey
+  259 Camp House Suites
+  De Moine IW 223989 USA
+--------------------------------------------------
+Code       Item                                                         SubTotal        Tax        Total     
+007yy      Year-long membership 'Gold Package' @ 17 Nagar Road          $ 2550.00       $ 153.00   $ 2703.00 
+           2017/01/17 - 2018/02/12 (4 units @ 750.0 with 15% off)
+hju8       Rental Equipment - 007yy - Golf Club                         $ 18.96         $ 0.76     $ 19.72   
+           (4 units @ 4.99/unit @ 5% off)
+                                                                        =====================================
+SUB-TOTALS                                                              $ 2568.96       $ 153.76   $ 2722.72 
+DISCOUNT                                                                                          -$ 359.28   
+FEES                                                                                               $ 10.50    
+TOTAL                                                                                              $ 2373.95  
+
+
+		Thank you for your purchase!
+
+
+Invoice INV002
+=======================================
+Personal Trainer: Alice,  Brown
+Member Info: 
+  Valueable Club (N703)
+  [Student]
+  Noah,  Lewis
+  007 Hall
+  Bond City CA 96630 USA
+--------------------------------------------------
+Code       Item                                                         SubTotal        Tax        Total     
+fg12       Day-long membership @ 007 Hall                               $ 322.50        $ 19.35    $ 341.85  
+           2016/07/25 13:10 (15 units @ 21.5)
+12hjx      Day-long membership @ 241 Under Drive                        $ 50.00         $ 3.00     $ 53.00   
+           2018/01/29 15:30 (20 units @ 5.0 with 50% off)
+8hfa       Parking Pass fg12 (17 units @ $11.0 with 1 free)             $ 176.00        $ 7.04     $ 183.04  
+83nf       Rental Equipment - fg12 - Badminton Racket                   $ 95.00         $ 3.80     $ 98.80   
+           (10 units @ 9.5/unit)
+                                                                        =====================================
+SUB-TOTALS                                                              $ 643.50        $ 33.19    $ 676.69  
+DISCOUNT                                                                                          -$ 84.67    
+FEES                                                                                               $ 10.50    
+TOTAL                                                                                              $ 602.52   
+
+
+		Thank you for your purchase!
+
+
+Invoice INV003
+=======================================
+Personal Trainer: Jain,  Humphrey
+Member Info: 
+  GAP Industries (N705)
+  [Student]
+  John,  Gain
+  1066 Algorithm Street
+  Chinity IL 60601 USA
+--------------------------------------------------
+Code       Item                                                         SubTotal        Tax        Total     
+3xc0       Year-long membership 'Ultimate Workout' @ 449 3rd Ave        $ 2890.00       $ 173.40   $ 3063.40 
+           2017/01/24 - 2018/01/15 (10 units @ 340.0 with 15% off)
+38sh       Parking Pass 3xc0 (5 units @ $50.0 with 5 free)              $ 0.00          $ 0.00     $ 0.00    
+yo18       Rental Equipment - 3xc0 - Soccer Cleats-Large                $ 246.05        $ 9.84     $ 255.89  
+           (14 units @ 18.5/unit @ 5% off)
+                                                                        =====================================
+SUB-TOTALS                                                              $ 3136.05       $ 183.24   $ 3319.29 
+DISCOUNT                                                                                          -$ 434.13   
+FEES                                                                                               $ 10.50    
+TOTAL                                                                                              $ 2895.67  
+
+
+		Thank you for your purchase!
+
+
+Invoice INV004
+=======================================
+Personal Trainer: Hundal,  Salan
+Member Info: 
+  Hen Roster (N704)
+  [General]
+  Spald,  Jeff
+  2041 Wallace
+  Ames IW 788945 USA
+--------------------------------------------------
+Code       Item                                                         SubTotal        Tax        Total     
+12hjx      Day-long membership @ 241 Under Drive                        $ 12.50         $ 0.75     $ 13.25   
+           2018/01/29 15:30 (5 units @ 5.0 with 50% off)
+yo18       Rental Equipment - 12hjx - Soccer Cleats-Large               $ 629.00        $ 25.16    $ 654.16  
+           (34 units @ 18.5/unit)
+                                                                        =====================================
+SUB-TOTALS                                                              $ 641.50        $ 25.91    $ 667.41  
+TOTAL                                                                                              $ 667.41   
+
+
+		Thank you for your purchase!
+
+
+Invoice INV005
+=======================================
+Personal Trainer: McCoy,  Derek
+Member Info: 
+  IIM Fellows (N702)
+  [General]
+  Anamika,  Goyal
+  122 Morill Hall
+  Lincoln NE 68503 USA
+--------------------------------------------------
+Code       Item                                                         SubTotal        Tax        Total     
+007yy      Year-long membership 'Gold Package' @ 17 Nagar Road          $ 637.50        $ 38.25    $ 675.75  
+           2017/01/17 - 2018/02/12 (1 units @ 750.0 with 15% off)
+hju8       Rental Equipment - 007yy - Golf Club                         $ 14.22         $ 0.57     $ 14.79   
+           (3 units @ 4.99/unit @ 5% off)
+8hfa       Parking Pass 007yy (7 units @ $11.0 with 7 free)             $ 0.00          $ 0.00     $ 0.00    
+                                                                        =====================================
+SUB-TOTALS                                                              $ 651.72        $ 38.82    $ 690.54  
+TOTAL                                                                                              $ 690.54   
+
+
+		Thank you for your purchase!
